@@ -10,16 +10,3 @@ A result you may find [Here](https://samstudy.github.io/21_valid_markup/index)
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
 ____
 
-
-
-
-
-
-
-# Site of Real Estate Agency
-
-[TODO. There will be project description]
-
-# Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
